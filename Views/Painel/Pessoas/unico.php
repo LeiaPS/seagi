@@ -16,7 +16,7 @@
 			<div class="modal-dialog" role="document">
 				<div class="modal-content">
 					<div class="modal-header"  style="background-color:#fef200 ; color: #2e3192; text-align: center;">
-						<h5 class="modal-title" id="mudaFotoLabel">Configurações de foto</h5>
+						<h5 class="modal-title" id="mudaFotoLabel">Configurações de foto:</h5>
 						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							<span aria-hidden="true">&times;</span>
 						</button>
