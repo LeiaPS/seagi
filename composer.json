@@ -1,0 +1,15 @@
+{
+	"require:":{
+		"setasign/fpdf": "^1.8"
+	},
+	"autoload":{
+		"psr-4":{
+			"Controllers\\":"Controllers/",
+			"Models\\":"Models/",
+			"Core\\":"Core/"
+		}
+	},
+	"require": {
+		"setasign/fpdf": "^1.8"
+	}
+}
